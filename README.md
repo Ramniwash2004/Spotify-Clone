@@ -35,7 +35,8 @@ spotify-clone/
 This is a static front-end clone. It does not include functionality like audio playback or dynamic content.
 
 ## 📷 Screenshots
-![spotify clone](https://github.com/user-attachments/assets/299d77f4-2484-40cd-9e38-a98e476cb439)
+![spotify clone](https://github.com/user-attachments/assets/8c1f2e4e-22a9-40b2-920d-e8a3f636f3aa)
+
 
 
 ## ✍️ Author

@@ -40,6 +40,6 @@ This is a static front-end clone. It does not include functionality like audio p
 
 ## ✍️ Author
 
-* --Ramniwash Kumawat
+* Ramniwash Kumawat
 * Built as part of practice during HTML & CSS learning.
 

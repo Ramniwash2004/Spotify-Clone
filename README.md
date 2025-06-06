@@ -37,6 +37,10 @@ This is a static front-end clone. It does not include functionality like audio p
 ## 📷 Screenshots
 ![spotify clone](https://github.com/user-attachments/assets/8c1f2e4e-22a9-40b2-920d-e8a3f636f3aa)
 
+#📄 License
+
+This project is open-source and free to use.
+
 
 
 ## ✍️ Author
